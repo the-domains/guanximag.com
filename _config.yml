@@ -1,0 +1,28 @@
+name: GuanXi Community Magazine
+favicon: null
+layout_spectrum: 0.8509425653610379
+typography_spectrum: 0.5700906896963716
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8417376864235848
+  lightness: 0.6540245935320854
+  saturation: 0.25214268872514367
+  rhythmicContrast: 0.19616934098303318
+purpose: []
